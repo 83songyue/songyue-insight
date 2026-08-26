@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.venv/
+node_modules/
+dist/
+build/
+AGENTS.md
+PROJECT_BRIEF.md
+STATUS.md

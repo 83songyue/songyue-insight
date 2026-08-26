@@ -1,0 +1,4 @@
+interface:
+  display_name: "宋老师的洞察挖掘 Skills"
+  short_description: "查找并挖掘某个产品、品类或人群有依据、有边界的消费者洞察"
+  default_prompt: "使用 $songyue-insight 帮我查一下这个产品或人群的消费者洞察，充分检索后给出至少两个有依据、不重复的判断（不足则说明），讲清现象与关键推导，洞察句尽量简短，不展开策略。"
