@@ -10,6 +10,8 @@
 
 Its focus is **observation → explanation → insight**: enough evidence and reasoning to understand the judgment, followed by plain, precise language. It does not turn every research request into a marketing strategy.
 
+This skill shares the practical, evidence-oriented approach of Songyue's marketing diagnosis work, but serves a different purpose: understanding consumer choices before developing a strategy. It works independently of other repositories.
+
 ## Usage
 
 After installation, ask your agent:
@@ -52,9 +54,15 @@ This repository is a skill package, not a hosted application. It includes no mod
 
 ## About the author
 
-Songyue (宋玥) has 20 years of experience in brand marketing and creative strategy, including roles as Creative Director at Ogilvy, marketing creative lead at Tencent, and founding partner of Beijing Tianyukong (天与空).
+Songyue (宋玥) is a brand marketing and creative strategy practitioner with 20 years of hands-on experience, including roles as:
 
-This skill shares the practical, evidence-oriented approach of Songyue's marketing diagnosis work, but serves a different purpose: understanding consumer choices before developing a strategy. It works independently of other repositories.
+- Creative Director at Ogilvy
+- Marketing Creative Lead for a Business Group at Tencent
+- Founding Partner of Beijing Tianyukong (天与空)
+
+His work spans brand, advertising, content, and business growth projects across internet services, fast-moving consumer goods, emerging consumer brands, and food and beverages.
+
+To learn more or contact Songyue, visit [songyue.me](https://songyue.me).
 
 ## Included resources
 
